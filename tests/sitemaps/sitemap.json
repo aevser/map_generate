@@ -1,0 +1,44 @@
+[
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/",
+        "lastmod": "2020-12-14",
+        "priority": "1.0",
+        "changefreq": "daily"
+    },
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/news",
+        "lastmod": "2020-12-10",
+        "priority": "0.5",
+        "changefreq": "daily"
+    },
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/about",
+        "lastmod": "2020-12-07",
+        "priority": "0.1",
+        "changefreq": "weekly"
+    },
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/products",
+        "lastmod": "2020-12-12",
+        "priority": "0.5",
+        "changefreq": "daily"
+    },
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/products/ps5",
+        "lastmod": "2020-12-11",
+        "priority": "0.1",
+        "changefreq": "weekly"
+    },
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/products/xbox",
+        "lastmod": "2020-12-12",
+        "priority": "0.1",
+        "changefreq": "weekly"
+    },
+    {
+        "loc": "https://avi-zaimy-pod-zalog.ru/products/wii",
+        "lastmod": "2020-12-11",
+        "priority": "0.1",
+        "changefreq": "weekly"
+    }
+]
