@@ -4,6 +4,6 @@
 
 ## Установка
 
-aevser/map_generate
+composer require aevser/map_generate
 
 ## Пример реализации лежит в tests/test_map_generate.php
