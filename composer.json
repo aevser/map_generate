@@ -3,8 +3,10 @@
   "description": "Библиотека для генерации карты сайта в форматах XML, CSV, JSON",
   "type": "library",
   "require": {
-
+    "aevser/map_generate": "^1.0"
   },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "MapGenerate\\": "src/"
