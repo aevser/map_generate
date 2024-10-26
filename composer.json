@@ -1,5 +1,5 @@
 {
-  "name": "aevsergeevich/map_generate",
+  "name": "aevser/map_generate",
   "description": "Библиотека для генерации карты сайта в форматах XML, CSV, JSON",
   "type": "library",
   "require": {
